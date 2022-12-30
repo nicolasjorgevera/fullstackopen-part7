@@ -1,0 +1,42 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are great",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "esto es la bomba",
+      "id": 3
+    },
+    {
+      "content": "a ver si anda",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "nico vera",
+      "number": "123123-121243",
+      "id": 3
+    },
+    {
+      "name": "fredy",
+      "number": "234233334214",
+      "id": 4
+    }
+  ]
+}
